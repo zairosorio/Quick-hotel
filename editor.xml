@@ -2,4 +2,7 @@
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="java.lang.Thread.sleep" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
 </application>
